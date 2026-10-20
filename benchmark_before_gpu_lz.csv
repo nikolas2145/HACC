@@ -1,0 +1,17 @@
+source,round,method,source_bytes,archive_bytes,compress_seconds,extract_seconds,sha256_match
+mixed.bin,1,hacc_gpu,268435456,270656548,1.528,0.621,True
+mixed.bin,1,hacc_cpu,268435456,136847334,0.883,0.401,True
+mixed.bin,1,zip,268435456,134659863,5.31,0.368,True
+mixed.bin,1,rar,268435456,134509138,5.541,0.596,True
+mixed.bin,2,rar,268435456,134509138,5.913,0.557,True
+mixed.bin,2,zip,268435456,134659863,5.505,0.379,True
+mixed.bin,2,hacc_cpu,268435456,136847334,0.916,0.413,True
+mixed.bin,2,hacc_gpu,268435456,270656548,0.872,0.675,True
+real2g.bin,1,hacc_gpu,2147483648,2165252401,7.292,4.332,True
+real2g.bin,1,hacc_cpu,2147483648,1094780014,6.74,3.265,True
+real2g.bin,1,zip,2147483648,1077278570,41.494,2.308,True
+real2g.bin,1,rar,2147483648,1076073451,44.03,4.276,True
+zeros256.bin,1,hacc_gpu,268435456,4326258,0.671,0.509,True
+zeros256.bin,1,hacc_cpu,268435456,5247933,0.621,0.519,True
+zeros256.bin,1,zip,268435456,315162,4.639,0.627,True
+zeros256.bin,1,rar,268435456,17041,1.361,0.71,True

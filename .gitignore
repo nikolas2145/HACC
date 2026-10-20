@@ -1,0 +1,10 @@
+/target/
+/dist/
+/release/
+/.idea/
+/benchmark_work/
+/out_*/
+/__pycache__/
+*.pyc
+/*.bin
+/*.hacc
